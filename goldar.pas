@@ -1,4 +1,4 @@
-program goldar;
+program golongan;
 uses crt;
 var
      goldar : string;
@@ -16,5 +16,6 @@ clrscr;
     else    
         write ('nilai tidak valid');
         end;
+
 
 end.
